@@ -13,8 +13,9 @@ Visual style (CRITICAL — match the reference):
 - Color blocks are filled with visible crayon/marker strokes showing texture
 
 IP Character 不二 (MUST match reference exactly):
-- Fluffy voluminous shoulder-length wavy/curly LIGHT BLUE hair, flipping outward on both sides like petals/wings
+- Fluffy voluminous shoulder-length wavy/curly SKY BLUE hair (saturated, clearly blue like #5BA3C4 — NOT pale, NOT grey, NOT washed out), flipping outward on both sides like petals/wings
 - Hair has internal fine lines showing strand direction + crayon texture fill
+- IMPORTANT: Hair color must be distinctly and unmistakably BLUE — never faded or whitish
 - Red butterfly bow on top center (with hatching texture)
 - Round black-framed glasses
 - Large round eyes: white sclera + ORANGE-YELLOW pupils + highlight dots
@@ -42,3 +43,4 @@ Constraints: Match reference art style exactly. One concept per image. 40-60% of
 - **必须附带参考图**：每次生成都要带一张已确认风格的参考图作为reference_image，否则风格会跑偏。
 - **蜡笔纹理是核心**：如果生成出来是纯色平涂，说明prompt没生效，需要强调 "crayon/marker texture fills with visible diagonal hatching strokes"。
 - **不是极简线条**：这个风格有饱满的色块填充，不是小黑那种黑白极简线条。
+- **头发颜色必须是饱和的天蓝色**：不能偏白、偏灰、过浅。如果生成出来发色过浅，需要在prompt里强调 "saturated SKY BLUE, NOT pale/grey/washed out"。
